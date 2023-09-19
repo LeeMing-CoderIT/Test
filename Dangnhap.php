@@ -17,6 +17,7 @@
 </head>
 
 <body style="background-color: #E2E2E2;">
+123
     <?php
         include('Control.php');
         $lock = "";
